@@ -13,5 +13,7 @@
             "email": "kisengajocelin7@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    }
 }
