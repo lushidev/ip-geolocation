@@ -1,0 +1,17 @@
+{
+    "name": "lushidev/api-location",
+    "description": "an api to retrieve location of there user by his ip adresse",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lushidev\\ApiLocation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jocelinkisenga",
+            "email": "kisengajocelin7@gmail.com"
+        }
+    ],
+    "require": {}
+}
